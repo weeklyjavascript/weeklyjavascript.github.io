@@ -2,7 +2,7 @@
 
 ### tl;dr: barebones JavaScript newsletter for the busy developer
 
-### the weekly.js manifesto
+## the weekly.js manifesto
 
 1. One email per week. 
 2. Industry insights & updates only.
