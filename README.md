@@ -7,7 +7,7 @@
 3. Industry insights & updates. 
 4. No BS.
 
-[button url="http://www.google.com"]
+[Link button][http://www.google.com]
 
 You can use the [editor on GitHub](https://github.com/weeklyjavascript/weeklyjavascript.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
