@@ -1,6 +1,6 @@
 ## Barebones JavaScript newsletter for the busy developer
 
-### The manifesto
+### The WeeklyJS Manifesto
 
 1. No spam.
 2. No BS.
