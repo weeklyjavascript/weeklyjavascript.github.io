@@ -12,7 +12,6 @@ weekly.js is a barebones JavaScript newsletter for the busy developer. It is run
 
 ## support us:
 
-You can support our efforts by:
-* sending a tip to tips@weeklyjavascript.news
-* donating via Patreon 
-* sponsoring a link
+* send a tip (article, release, etc.) to tips@weeklyjavascript.news
+* donate via Patreon 
+* sponsor a link
