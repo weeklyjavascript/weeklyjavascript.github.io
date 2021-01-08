@@ -1,4 +1,4 @@
-## our GDPR policies and compliance notices
+## gdpr:
 
 The GDPR (General Data Protection Regulation) is a new set of European privacy laws that come into force in May 2018 and which protect the personally identifiable information of EU data subjects (typically EU residents). You can learn more about how we abide by these laws on this page.
 
@@ -45,7 +45,7 @@ Necessity test. It is necessary for us to store subscribers’ email addresses i
 Balancing test. This test requires we take into account the impact on individuals of our data processing practices. Our audience are principally adults representing businesses and who have explicitly requested to receive our publications. We use their personal information principally to send them the newsletters requested (and opted into via a double optin process). Use of their personally identifiable information for other purposes would require a further basis, though no such processing is currently undertaken, and we use our subscribers’ data in only ways that they would reasonably expect us to.
 Further to the above, our universal use of the double opt-in process also affords us an audit trail of informed consent for each subscriber based upon the opt-in confirmation time and the IP address used.
 
-### how we share information with third parties
+### how we share information with third parties:
 
 It is a necessity of business that we share personally identifiable information with third parties under certain situations. We have tried to enumerate each opportunity this occurs below:
 
