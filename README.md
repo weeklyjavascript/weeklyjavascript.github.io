@@ -3,14 +3,11 @@
 ### The WeeklyJS Manifesto
 
 1. One email per week. 
-2. No spam.
-3. Industry insights & updates. 
-4. No BS.
-
-### Subscribe
+2. Industry insights & updates only.
+3. No BS, no spam.
 
 <span class="fs-8">
-[Link button](http://example.com/){: .btn }
+[Subscribe](http://example.com/){: .btn }
 </span>
 
 You can use the [editor on GitHub](https://github.com/weeklyjavascript/weeklyjavascript.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
