@@ -1,6 +1,8 @@
-## Barebones JavaScript newsletter for the busy developer
+## about
 
-### The WeeklyJS Manifesto
+### tl;dr: Barebones JavaScript newsletter for the busy developer
+
+### the WeeklyJS manifesto
 
 1. One email per week. 
 2. Industry insights & updates only.
