@@ -2,9 +2,10 @@
 
 ### The WeeklyJS Manifesto
 
-1. No spam.
-2. No BS.
-3. Only the JavaScript news you care about.
+1. One email per week. 
+2. No spam.
+3. Industry insights & updates. 
+4. No BS.
 
 You can use the [editor on GitHub](https://github.com/weeklyjavascript/weeklyjavascript.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
