@@ -8,7 +8,7 @@ Please note that we do NOT store credit/debit card numbers, nor do we share cust
 
 This document explains how and why we collect information from our users, how we use it, and how you can access or change it. This document does not cover third-party sites we link to or which link to us. Those sites should have their own privacy policies.
 
-If you have any problem with this policy or wish to ask questions, please contact us on team@cooperpress.com.
+If you have any problem with this policy or wish to ask questions, please contact us on team@weeklyjavascript.news
 
 ### What Information We Collect
 
