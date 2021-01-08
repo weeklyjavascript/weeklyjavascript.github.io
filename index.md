@@ -8,9 +8,7 @@ weekly.js is a barebones JavaScript newsletter for the busy developer
 2. Industry insights & updates only.
 3. No BS, no spam.
 
-## subscribe
-
-[💌 Subscribe](http://example.com/){: .btn }
+## subscribe [💌 Subscribe](http://example.com/){: .btn }
 
 ## support
 
