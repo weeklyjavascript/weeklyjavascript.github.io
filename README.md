@@ -7,8 +7,9 @@
 3. No BS, no spam.
 
 <span class="fs-8">
-[Subscribe](http://example.com/){: .btn }
+[💌 Subscribe](http://example.com/){: .btn }
 </span>
+
 
 You can use the [editor on GitHub](https://github.com/weeklyjavascript/weeklyjavascript.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
